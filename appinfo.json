@@ -1,0 +1,75 @@
+{
+    "appKeys": {
+        "KEY_BITSTAMP_HIGHPRICE": 2,
+        "KEY_BITSTAMP_LASTPRICE": 0,
+        "KEY_BITSTAMP_LOWPRICE": 1
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "gstandaert@gmail.com",
+    "longName": "Bitstamp Watchface",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/iconmonstr-battery-11-24.png",
+                "name": "ICON_BATTERY_CHARGING",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/iconmonstr-battery-7-24.png",
+                "name": "ICON_BATTERY_FULL",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/iconmonstr-battery-6-24.png",
+                "name": "ICON_BATTERY_75",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/iconmonstr-battery-5-24.png",
+                "name": "ICON_BATTERY_50",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/iconmonstr-battery-4-24.png",
+                "name": "ICON_BATTERY_25",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/iconmonstr-battery-3-24.png",
+                "name": "ICON_BATTERY_EMPTY",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/bluetooth_disabled.png",
+                "name": "ICON_BLUETOOTH_DISABLED",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/bluetooth_enabled.png",
+                "name": "ICON_BLUETOOTH_ENABLED",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/bitstamp.png",
+                "name": "IMAGE_BITSTAMP",
+                "type": "png"
+            },
+            {
+                "file": "fonts/GloriaHallelujah.ttf",
+                "name": "FONT_GLORIA_HALLELUJAH_50",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "Bitstamp Watchface",
+    "uuid": "208b0c38-415e-4e27-9991-1f0016bd3553",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
